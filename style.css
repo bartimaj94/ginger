@@ -33,7 +33,7 @@ body {
   color: #c63302;
 }
 .home-inner {
-  background-image: url(img/violin.jpg);
+  background-image: url(violin.jpg);
 }
 .caption {
   width: 100%;
@@ -114,7 +114,7 @@ h3.heading {
   font-size: 1.1rem;
 }
 .fixed {
-  background-image: url(img/bg.jpg);
+  background-image: url(bg.jpg);
   z-index: -1;
 }
 .dark {
